@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(0, 0, 0, 1)
+    color: rgba(255, 255, 255, .7);
 }
 
 .d-bloc button:hover {
@@ -323,7 +323,8 @@ a:hover {
 }
 
 .nav > li {
-    float: left;
+    margin-right: 65px;
+    list-style-type: none;
     margin-top: 4px;
     font-size: 16px;
 }
@@ -775,7 +776,7 @@ h4 {
 }
 
 .tc-white {
-    color: #FFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine {
